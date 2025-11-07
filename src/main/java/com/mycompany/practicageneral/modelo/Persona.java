@@ -97,7 +97,7 @@ public class Persona {
                 "Cédula:"+cedula+"\n"+
                 "Dirección:"+getDireccion()+"\n"+
                 "Teléfono:"+getTelefono()+"\n"+
-                "Género:"+getGenero();
+                "Género:"+validarGenero();
     }
 
     @Override
